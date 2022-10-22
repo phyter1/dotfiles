@@ -1,3 +1,5 @@
+#!/bin/bash
+
 export DEBIAN_FRONTEND=noninteractive
 export INSTALL_ZSH=true
 export USERNAME=`phyter1`
